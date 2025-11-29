@@ -1,5 +1,5 @@
 feature-a
 
-hello world
+hello
 
-hello world again
+test
